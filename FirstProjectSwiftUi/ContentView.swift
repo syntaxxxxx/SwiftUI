@@ -10,19 +10,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack(alignment: .center) {
-            Text("Job")
-                    .font(.title)
-                    .foregroundColor(.blue)
-            HStack {
-                Text("iOS Engineer")
-                        .font(.subheadline)
-                Spacer()
-                Text("Android Engineer")
-                        .font(.subheadline)
-            }
-        }
-        .padding()
+        Image("fiqri")
+        .clipShape(Circle())
+        .overlay(Circle().stroke(Color.gray, lineWidth: 4))
+        .shadow(radius: 10)
     }
 }
 
