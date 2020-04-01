@@ -7,13 +7,31 @@
 //
 
 import SwiftUI
+import MapKit
 
 struct ContentView: View {
     var body: some View {
-        Image("fiqri")
-        .clipShape(Circle())
-        .overlay(Circle().stroke(Color.gray, lineWidth: 4))
-        .shadow(radius: 10)
+        VStack {
+            MapView()
+                    .edgesIgnoringSafeArea(.top)
+                    .frame(height: 300)
+
+//            CircleImage()
+//            .offset(y: -130)
+//            .padding(.bottom, -130)
+
+            VStack {
+                Text("Fiqri Hafzain")
+                        .font(.title)
+                HStack {
+                    Text("iOS Engineer")
+                            .font(.subheadline)
+                    Spacer()
+                    Text("Jakarta, Indonesia")
+                            .font(.subheadline)
+                }
+            }.padding()
+        }
     }
 }
 

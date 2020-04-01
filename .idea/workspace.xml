@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dce4886-313d-4f02-b242-9fa0aea673c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FirstProjectSwiftUi/CircleImage.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProjectSwiftUi/MapView.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProjectSwiftUi.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProjectSwiftUi.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstProjectSwiftUi/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProjectSwiftUi/ContentView.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +57,7 @@
       <workItem from="1585686309120" duration="408000" />
       <workItem from="1585686724095" duration="299000" />
       <workItem from="1585687079856" duration="1702000" />
-      <workItem from="1585731705926" duration="460000" />
+      <workItem from="1585731705926" duration="3380000" />
     </task>
     <servers />
   </component>
@@ -62,22 +65,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1585732262317">
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1585746263351">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585732262317" />
-    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1585732262316">
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585746263351" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1585746263348">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="287" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585732262316" />
-    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1585732262316">
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585746263348" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1585746263345">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="287" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585732262316" />
-    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1585732262316">
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585746263345" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1585746263350">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="287" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585732262316" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585746263350" />
     <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1585731709631">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
